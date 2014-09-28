@@ -7,7 +7,7 @@ The original code is taken from my bachelor's thesis (submitted in Aug 2014, wil
 
 The thesis consists of a brief introduction to Basic Fuzzy Logic and a description of the code. It also contains a short tutorial on proving in Isabelle/HOL for potential users or followers of this very basal piece of the upcoming Fuzzy Logic Formalization project.
 
-The thesis is written in CZECH and is going to be translated in ENGLISH sometimes. If interested in something particular, just leave the message.
+The thesis is written in CZECH and is going to be translated in ENGLISH sometime. If interested in something particular, just leave the message.
 
 Presented theories contain:
 
