@@ -22,6 +22,5 @@ BL_LocalDeduction.thy
 
 The definitions of the formalized object and some of the proofs are (mostly) from:
 
-Petr Hájek: Metamathematics of Fuzzy Logic, Springer, 1998
-
-Libor Běhounek, Petr Cinutla, Petr Hájek: Chapter I: Introduction to Mathematical Fuzzy Logic, in Handbook of Mathematical Fuzzy Logic, Vol.1 
+- Petr Hájek: Metamathematics of Fuzzy Logic, Springer, 1998
+- Libor Běhounek, Petr Cinutla, Petr Hájek: Introduction to Mathematical Fuzzy Logic, Chapter I in Handbook of Mathematical Fuzzy Logic, Vol.1, Collage Publications, 2011 
