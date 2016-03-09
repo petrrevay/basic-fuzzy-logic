@@ -7,7 +7,7 @@ The original code is taken from my bachelor's thesis (submitted in Aug 2014, def
 
 The thesis consists of a brief introduction to Basic Fuzzy Logic and a description of the code. It also contains a short tutorial on proving in Isabelle/HOL for potential users or followers of this very basal piece of the upcoming Fuzzy Logic Formalization project.
 
-NOTE: The code is being prepared for publishing in Isabelle's.
+NOTE: The code is being prepared for publishing in Isabelle's AFP.
 
 Presented theories contain:
 
